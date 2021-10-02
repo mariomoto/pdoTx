@@ -7,7 +7,6 @@ Created on Thu Jul  8 18:57:53 2021
 
 import os
 os.environ["PROJ_LIB"] = r'C:\Users\mamaro\Anaconda3\Library\share\proj'
-import matplotlib.pyplot as plt
 import networkx as nx
 import datetime as dt
 import pandas as pd
